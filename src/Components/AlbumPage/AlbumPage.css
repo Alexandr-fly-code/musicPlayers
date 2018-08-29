@@ -1,8 +1,0 @@
-.content {
-    padding: 1.625rem;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    overflow-y: scroll;
-    height: 75vh;
-}
