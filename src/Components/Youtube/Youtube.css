@@ -1,0 +1,24 @@
+.player {
+    position: fixed;
+    bottom: 0;
+    left: 5px;
+    z-index: 2;
+}
+
+.player iframe {
+    display: block;
+    width: 320px;
+    height: 320px;
+}
+.close {
+    font-family: sans-serif;
+    color: #fff;
+    position: absolute;
+    top: -6px;
+    right: -6px;
+    padding: 3px 6px;
+    background-color: var(--red);
+    border-radius: 50%;
+    font-size: 12px;
+    cursor: pointer;
+}
