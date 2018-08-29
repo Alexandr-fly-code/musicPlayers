@@ -3,7 +3,7 @@ import './Logo.css';
 const Logo = () => {
     return (
         <a href="#" className="logo">
-            <h1 className="title">Logo</h1>
+            <h1 className="title">Music Player</h1>
         </a>
     );
 };
